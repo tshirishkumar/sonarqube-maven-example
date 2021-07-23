@@ -14,9 +14,9 @@ public class HelloWorld {
         System.out.println("Hello World!");
     }
 
-    public void notCovered() {
+  /**  public void notCovered() {
         System.out.println("This method is not covered by unit tests");
-    }
+    }**/
 
 
 }
